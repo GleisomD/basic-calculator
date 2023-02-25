@@ -1,0 +1,42 @@
+.calculator {
+    /* Color Property */
+    background-color: #2a2438;
+    /* Center Property */
+    box-sizing: content-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    /* Color Property */
+    color: #fbfbfb;
+    /* Center Property */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonRow {
+    /* Center Property */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numberButton {
+    /* Color Property */
+    background-color: #5c5470;
+    color: #fbfbfb;
+}
+
+.operatorButton {
+    /* Color Property */
+    background-color: #352f44;
+    color: #fbfbfb;
+}
+
+#equalButton {
+    /* Color Property */
+    background-color: #8dc6ff;
+    color: #fbfbfb;
+}
